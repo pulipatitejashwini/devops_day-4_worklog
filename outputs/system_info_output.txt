@@ -1,0 +1,25 @@
+=============== SYSTEM INFORMATION ===============
+Hostname       : ip-172-31-39-60
+Current User   : ubuntu
+OS Version     : GNU/Linux
+Kernel Version : 6.14.0-1015-aws
+Uptime         : up 3 hours, 1 minute
+==================================================
+Memory Usage   :                total        used        free      shared  buff/cache   available
+Mem:           957Mi       337Mi       353Mi       888Ki       423Mi       619Mi
+Swap:             0B          0B          0B
+==================================================
+Disk Usage     : Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  1.8G  5.0G  27% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           192M  876K  191M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M   89M  730M  11% /boot
+/dev/xvda15     105M  6.2M   99M   6% /boot/efi
+tmpfs            96M   12K   96M   1% /run/user/1000
+==================================================
+CPU Info       :                               Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz
+==================================================
+=============== Disk Check =======================
+Disk usage is healthy (27%)
+==================================================
