@@ -19,7 +19,7 @@ OS: Linux (Ubuntu)
 - Wrote scripts to:                    
     Print system information                 
     Use variables, if-else conditions, and loops             
-    Automate log cleanup and backup                
+    Automate log cleanup and backup [used cronjob for automation for testing ran job per min]          
 - Made scripts executable using chmod +x               
 - Executed scripts from terminal                  
 - Redirected output to log files            
